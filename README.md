@@ -1,3 +1,7 @@
+![image](https://github.com/BabyBharti/BabyBharti/assets/171811163/a1333add-436f-4e4f-a551-2cfe323d6d29)
+
+
+
 ## Hi 👋 I'm Baby Bharti
 
 I am a dedicated data analyst from Delhi, India, with a passion for uncovering insights and making data-driven decisions. I thrive on transforming raw data into actionable strategies and meaningful stories. Let's connect and harness the power of data together! 📊
