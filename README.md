@@ -11,6 +11,6 @@ I am a dedicated data analyst from Delhi, India, with a passion for uncovering i
 - 👯 I’m looking to collaborate on Open Source Data Projects
 - 📫 How to reach me jsbabyrb@gmail.com
 
-![images](https://github.com/BabyBharti/BabyBharti/assets/171811163/f58ceb03-6706-44b5-9857-446b730be068)
+<img src="https://github.com/BabyBharti/BabyBharti/assets/171811163/f58ceb03-6706-44b5-9857-446b730be068" width="300">
 
 
