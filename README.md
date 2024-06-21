@@ -16,3 +16,4 @@ I am a dedicated Data analyst from Delhi, India, with a passion for uncovering i
 <img src ="https://github.com/BabyBharti/BabyBharti/assets/171811163/674e38b5-6d69-42ce-8ec1-fe91c0837df6" width="70">
 <img src ="https://github.com/BabyBharti/BabyBharti/assets/171811163/591b362a-8518-4115-82a2-6e07bd2e2096" width="50">
 <img src ="https://github.com/BabyBharti/BabyBharti/assets/171811163/f68d0b0f-5bc3-4eab-9988-48536246af20" width="50">
+<img src ="https://github.com/BabyBharti/BabyBharti/assets/171811163/8c2ffe1c-f657-49ed-a950-63c449533c90" width="50">
