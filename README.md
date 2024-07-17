@@ -1,4 +1,4 @@
-![image](https://github.com/BabyBharti/BabyBharti/assets/171811163/a1333add-436f-4e4f-a551-2cfe323d6d29)
+<img src="https://github.com/BabyBharti/BabyBharti/assets/171811163/a1333add-436f-4e4f-a551-2cfe323d6d29" alt="Description of the image" width="500" height="300"/>
 
 
 
